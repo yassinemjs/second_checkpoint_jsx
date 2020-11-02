@@ -1,0 +1,33 @@
+
+.App {
+background-color: beige;
+display : flex ;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+padding: 20px;
+
+
+}
+
+.first {
+  display :flex;
+  align-items: center;
+  flex-direction: column;
+  padding :20px ;
+}
+
+.red 
+{
+  color : red;
+}
+
+.title {
+font-style: normal;
+font-size: xx-large;
+font-weight: 900 ;
+
+}
+
+
+
